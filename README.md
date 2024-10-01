@@ -1,7 +1,6 @@
 # Bingo
 
-Este é um projeto de Bingo desenvolvido para ser jogado diretamente no navegador, hospedado no GitHub Pages. Ele foi criado com o objetivo de proporcionar uma experiência divertida e interativa, seja para jogar entre amigos ou em eventos.
-
+Este é um projeto de Bingo desenvolvido durante as aulas de Contruçãode Software para Web (80h), ministrada pelo professor Otávio Lube em 2023/1 na Uuniversidade de Vila Velha.
 
 ## Funcionalidades
 
